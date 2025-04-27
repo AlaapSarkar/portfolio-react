@@ -36,3 +36,7 @@ Hover over the paragraph to see the effect on the About page header!
 ## Keep going! 🚀
 
 Try experimenting with the `useWiggle` properties for different effects!
+
+## fixes
+* https://www.reddit.com/r/github/comments/1alt627/pages_deployment_gives_404_errors_for_the/?sort=new
+* https://blog.devgenius.io/how-to-deploy-your-vite-react-app-to-github-pages-with-and-without-react-router-b060d912b10e
